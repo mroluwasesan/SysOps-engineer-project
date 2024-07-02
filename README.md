@@ -36,4 +36,4 @@ Sets appropriate permissions (600) for the password file.
 - Automation: Can be part of an automated user provisioning process.
 - Security Auditing: Helps track user creation and password changes.
 
-# For more details on how this script works, you can check out this [Medium post](https://medium.com/@lordrolex4u/automating-user-and-group-management-with-a-secure-bash-script-33111f80410d)
+### For more details on how this script works, you can check out this [Medium post](https://medium.com/@lordrolex4u/automating-user-and-group-management-with-a-secure-bash-script-33111f80410d)
