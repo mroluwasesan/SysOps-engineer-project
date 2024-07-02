@@ -1,5 +1,5 @@
 # SysOps-engineer-project
-Project for setting up new users to access linux server 
+ShellScript project for setting up new users to access linux server 
 
 ## Purpose:
 The script is designed to manage user accounts and groups on a Linux system.
