@@ -1,7 +1,7 @@
 # SysOps-engineer-project
 Project for setting up new users to access linux server 
 
-Purpose:
+## Purpose:
 The script is designed to manage user accounts and groups on a Linux system.
 It creates users, assigns them to groups, generates secure passwords, and logs actions.
 Key Actions:
