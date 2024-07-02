@@ -15,6 +15,8 @@ LOG_FILE="/var/log/user_management.log"
 
 # Creating log file if it doesn't exist
 touch "$LOG_FILE"
+mkdir -p /var/secure
+chown -R $(whoami) /var/secure
 
 # Function to generate a random password
 generate_password() {
